@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "Address.proto";
+// 相当于 C++中命名空间的用途，将消息定义打包到 package 中。
+package Erbing;
+
+// 枚举类型第一个元素一定要从0开始， 分号隔开，第二个元素后可以取任意值。
+enum Color
+{
+    Red = 0; 
+    Green = 5;
+    Yellow = 6;
+    Blue = 9;
+}
+
+message Person
+{
+    int32 id = 1;    
+    repeated bytes name = 2;
+    bytes sex = 3;
+    int32 age = 4;
+    Dabing.Address addr = 5;
+    Color color = 6;
+}
