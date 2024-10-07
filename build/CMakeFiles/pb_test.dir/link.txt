@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/pb_test.dir/src/MyTest.cc.o CMakeFiles/pb_test.dir/src/main.cc.o CMakeFiles/pb_test.dir/proto_generate/Address.pb.cc.o CMakeFiles/pb_test.dir/proto_generate/Person.pb.cc.o -o bin/pb_test  -lprotobuf 

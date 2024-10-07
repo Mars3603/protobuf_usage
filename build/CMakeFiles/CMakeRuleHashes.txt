@@ -1,4 +1,0 @@
-# Hashes of file build rules.
-f9d4766944a54e17e72f4130f5463119 CMakeFiles/generate_protos
-1c1d84599f2701289103b590b7a27f71 proto_generate/Address.pb.cc
-86cec740e99a148cef17b6d2d20ebc63 proto_generate/Person.pb.cc

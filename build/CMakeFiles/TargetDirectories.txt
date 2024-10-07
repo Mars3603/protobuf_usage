@@ -1,4 +1,0 @@
-/home/mars/bing-test/Test/build/CMakeFiles/generate_protos.dir
-/home/mars/bing-test/Test/build/CMakeFiles/pb_test.dir
-/home/mars/bing-test/Test/build/CMakeFiles/edit_cache.dir
-/home/mars/bing-test/Test/build/CMakeFiles/rebuild_cache.dir
